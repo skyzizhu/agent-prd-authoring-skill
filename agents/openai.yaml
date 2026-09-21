@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent PRD Authoring"
+  short_description: "Create formal, engineering-ready PRDs for AI agent products."
+  default_prompt: "Create or upgrade a formal PRD for this AI agent project, with explicit flows, nodes, diagrams, guardrails, fallbacks, acceptance, and evaluation."
+policy:
+  allow_implicit_invocation: true
